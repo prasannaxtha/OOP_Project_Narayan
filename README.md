@@ -118,7 +118,7 @@ Total    : Rs. 71190
 
 ## 👨‍💻 Author
 
-**Prasanna Xtha**
+**Narayan Poudel**
 
 Bachelor's in Cyber Security
 
